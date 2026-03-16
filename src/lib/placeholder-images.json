@@ -1,0 +1,22 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-tech",
+      "description": "Abstract futuristic technology background",
+      "imageUrl": "https://picsum.photos/seed/cypher1/1200/800",
+      "imageHint": "futuristic technology"
+    },
+    {
+      "id": "service-software",
+      "description": "Software development coding",
+      "imageUrl": "https://picsum.photos/seed/cypher2/600/400",
+      "imageHint": "coding programming"
+    },
+    {
+      "id": "course-web",
+      "description": "Web development course",
+      "imageUrl": "https://picsum.photos/seed/cypher3/400/300",
+      "imageHint": "web development"
+    }
+  ]
+}
